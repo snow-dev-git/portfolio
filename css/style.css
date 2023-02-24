@@ -1433,3 +1433,11 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+.load-more {
+  display: none;
+}
+.project .desc .con ul {
+  color: ghostwhite;
+  font-size: small;
+}
